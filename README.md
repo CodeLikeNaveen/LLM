@@ -12,4 +12,5 @@
 - **Multi-Head Self-Attention**: Allows the model to focus on different parts of the input text
 - **Feed-Forward Networks**: Process the attention outputs
 - **Positional Embeddings**: Help the model understand word order since transformers aren't sequential
- 
+
+[**🔗Weights File Link**](https://drive.google.com/file/d/1fBLZbkzpwZzHEjwqJ8O_9vs-xqMAUw--/view?usp=sharing)
